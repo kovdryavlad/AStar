@@ -1,5 +1,6 @@
 # AStar
 This is my implementation of "AStar" algorithm
+Distance type: Manhattan 
 
 Controls:
 
@@ -12,5 +13,3 @@ F - set finish cell
 Q - clear field
 
 Space - find solution
-
-Distance type: Manhattan 
