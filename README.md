@@ -1,5 +1,5 @@
 # AStar
-This is my implementation of "AStar" algorithm
+This is my implementation of "AStar" algorithm.
 Distance type: Manhattan 
 
 Controls:
